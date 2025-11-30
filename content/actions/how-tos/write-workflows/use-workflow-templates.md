@@ -50,3 +50,4 @@ topics:
 {% ifversion fpt or ghec %}
 * [AUTOTITLE](/billing/managing-billing-for-github-actions)
 {% endif %}
+content/actions/how-tos/write-workflows/use-workflow-templates.md
