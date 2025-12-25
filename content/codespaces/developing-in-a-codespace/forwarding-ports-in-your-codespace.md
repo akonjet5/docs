@@ -174,3 +174,4 @@ Copy the address and paste it somewhere for later use.
 You can see the port labels when you list the forwarded ports for a codespace. To do this, use the `gh codespace ports` command and then select a codespace.
 
 {% endcli %}
+gh codespace ports forward CODESPACE-PORT:LOCAL-PORT
